@@ -14,7 +14,7 @@ body{
     height: auto;  
     margin: 100px auto;  
     background-color: #eee;  
-    border-radius: 25px;  
+    border-radius: 0;  
    }  
    .base{  
     width: 100%;  
